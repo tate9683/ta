@@ -2,7 +2,7 @@
 3u空きを作ったら打ちやすいと思って作ったキーボードです  
 
 頒布は予定していません。  
-https://twitter.com/kaeru_ta_
+https://t.co/pTUgpPy3nN
 に欲しいものリストがあるので、もし作る機会があって気に入った方はお待ちしております。
 
 #build guide  
