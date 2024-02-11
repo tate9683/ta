@@ -61,3 +61,4 @@ Tadpole pinの取り付け（8個）
 ![4](./img/build4.jpg)  
 
 ケースに取り付けて完成。
+![99](./img/build_end.jpg)  
