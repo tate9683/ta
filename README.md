@@ -41,7 +41,7 @@ SMDダイオード（取付向きに注意！！）とMXスイッチソケット
 
 ![7](./img/build7.jpg)  
 
-![8](./img/build8.jpg) 
+
 
 ![9](./img/build9.jpg)  
 
