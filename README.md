@@ -33,4 +33,19 @@ Tadpole pinの取り付け（8個）
 別アングル
 ![4](./img/build4.jpg)  
 
+
+
+![5](./img/build5.jpg)  
+
+![6](./img/build6.jpg)  
+
+![7](./img/build7.jpg)  
+
+![8](./img/build8.jpg) 
+
+![9](./img/build9.jpg)  
+
+![10](./img/build10.jpg)  
+
+![11](./img/build11.jpg)  
 ケースを取り付けて完成。
