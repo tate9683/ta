@@ -9,7 +9,7 @@
 *ケース（bullyを流用する際は加工が必要）  
 *![tadpole pin](https://geon.works/products/tadpole)…8個  
 *![SMDダイオード](https://talpkeyboard.net/items/6294480b0ebded1af895c437)…45個  
-*![MXスイッチソケット](https://talpkeyboard.net/items/5e02c5405b120c792616bcf9)  
+*![MXスイッチソケット](https://talpkeyboard.net/items/5e02c5405b120c792616bcf9)…45個  
 *約6mmのネオジム磁石　10個（私はセリアで購入）  
   
 
