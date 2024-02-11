@@ -22,6 +22,13 @@ https://t.co/pTUgpPy3nN
 基板裏面（RP2040-ZERO）取付位置  
 横からマイコンと基板をはんだでとりつけてください  
 ![2](./img/build2.jpg)  
+ソケットピンを指して固定しながらはんだ付けします。
+
+![6](./img/build6.jpg)  
+マイコンの裏面（ボタンが無いほう）にも接続Pinがあるので大量にはんだを付けると  
+そちらへもつながってしまい予期せぬ動作不良を招く可能性がありますのでご注意ください。
+![6](./img/build6-1.jpg)  
+![7](./img/build7.jpg)  
 
 SMDダイオード（取付向きに注意！！）とMXスイッチソケットを付けた状態（基板裏面）  
 ![5](./img/build5.jpg)  
@@ -33,4 +40,19 @@ Tadpole pinの取り付け（8個）
 別アングル
 ![4](./img/build4.jpg)  
 
+
+
+![5](./img/build5.jpg)  
+
+
+
+![7](./img/build7.jpg)  
+
+![8](./img/build8.jpg) 
+
+![9](./img/build9.jpg)  
+
+![10](./img/build10.jpg)  
+
+![11](./img/build11.jpg)  
 ケースを取り付けて完成。
