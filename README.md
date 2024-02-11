@@ -34,15 +34,7 @@ SMDダイオード（取付向きに注意！！）とMXスイッチソケット
 ![5](./img/build8.jpg)  
 
 
-
-
-
-
-
-![7](./img/build7.jpg)  
-
-
-
+片方に予備半田をどうぞ  
 ![9](./img/build9.jpg)  
 
 ![10](./img/build10.jpg)  
@@ -50,6 +42,7 @@ SMDダイオード（取付向きに注意！！）とMXスイッチソケット
 ![11](./img/build11.jpg)  
 
 ![5](./img/build5.jpg)  
+![7](./img/build7.jpg)  
 
 トッププレートをかぶせてからキースイッチを取り付けてください  
 Tadpole pinの取り付け（8個）  
