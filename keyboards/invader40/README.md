@@ -20,29 +20,29 @@ https://t.co/pTUgpPy3nN
 ![1](../img/invader00.jpg)
 
 基板表面
-![2](./img/invader0.jpg)  
+![2](../img/invader0.jpg)  
 
 
 SMDダイオードを取り付けてください。予備はんだをしておくと便利です　*取付向きに注意！！（基板裏面）  
-![5](./img/invader2.jpg)  
+![5](../img/invader2.jpg)  
 
 
 基板裏面（RP2040-ZERO）取付位置  (表裏の向きに注意）
 横からマイコンと基板をはんだでとりつけてください  
-![2](./img/invader4.jpg)  
+![2](../img/invader4.jpg)  
 ソケットピンをさしてマイコンを固定しながらはんだ付けします。 
 
-![6](./img/invader6.jpg)  
+![6](../img/invader6.jpg)  
 マイコンの裏面（ボタンが無いほう）にも接続Pinがあるので（下の写真赤枠）大量にはんだを付けると  
 そちらへもつながってしまい予期せぬ動作不良を招く可能性がありますのでご注意ください。
-![6](./img/build6-1.jpg)  
+![6](../../img/build6-1.jpg)  
 
   
 
 
   
 ソケットスイッチにも予備はんだをどうぞ
-![10](./img/build10.jpg)  
+![10](../../img/build10.jpg)  
 
 
 
