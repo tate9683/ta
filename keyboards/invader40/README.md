@@ -17,7 +17,7 @@ https://t.co/pTUgpPy3nN
   
 
 はんだ付けする前にRP2040-ZEROにファームウェアが焼けるか確認
-![1](./img/invader00.jpg)
+![1](../img/invader00.jpg)
 
 基板表面
 ![2](./img/invader0.jpg)  
