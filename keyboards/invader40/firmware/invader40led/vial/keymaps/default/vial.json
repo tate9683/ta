@@ -1,0 +1,139 @@
+{
+    "lighting": "true",
+    "matrix": {
+        "rows": 4,
+        "cols": 11
+    },
+     
+ "rgblight": {
+        "hue_steps": 16,
+        "saturation_steps": 16,
+        "brightness_steps": 16,
+        "led_count": 11,
+        "sleep": true,
+        "animations": {
+            "breathing": true,
+            "rainbow_mood": true,
+            "rainbow_swirl": true,
+            "snake": true,
+            "knight": true,
+            "christmas": true,
+            "static_gradient": true,
+            "rgb_test": true,
+            "alternating": true,
+            "twinkle": true
+        }
+     },
+         "ws2812": {
+        "pin": "GP15"
+    },
+    "layouts": {
+
+        "keymap":      
+      [
+
+[
+
+
+    {
+      "c": "#e4dedd"
+    },
+    "0,0",
+    "0,1",
+    "0,2",
+    "0,3",
+    "0,4",
+    {
+      "x": 1.5
+    },
+    "0,6",
+    "0,7",
+    "0,8",
+    "0,9",
+    "0,10"
+  ],
+  [
+    {
+      "x": 0.25
+    },
+    "1,0",
+    "1,1",
+    "1,2",
+    "1,3",
+    "1,4",
+    {
+      "c": "#cccccc"
+    },
+    "1,5",
+    {
+      "c": "#e4dedd"
+    },
+    "1,6",
+    "1,7",
+    "1,8",
+    "1,9",
+    "1,10"
+  ],
+  [
+    "2,0",
+    "2,1",
+    {
+      "x": 0.25
+    },
+    "2,2",
+    "2,3",
+    "2,4",
+    "2,5",
+    {
+      "x": 0.25,
+      "c": "#e4dedd"
+    },
+    "2,6",
+    "2,7",
+    "2,8",
+    "2,9",
+    "2,10"
+  ],
+  [
+    {
+      "c": "#f5abab"
+    },
+    "3,0",
+    {
+      "w": 1.25
+    },
+    "3,1",
+    "3,2",
+    {
+      "x": 0.5,
+      "c": "#a0f2f2",
+      "w": 2
+    },
+    "3,3",
+    {
+      "w": 2
+    },
+    "3,4",
+    {
+      "x": 0.5,
+      "c": "#bebcf5"
+    },
+    "3,5",
+    {
+      "w": 1.25
+    },
+    "3,6",
+    "3,7"
+  ]
+]
+
+
+        
+        
+        
+        
+        
+        
+        
+    }
+}
